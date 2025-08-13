@@ -1,0 +1,24 @@
+---
+title: "HW1: STAT 439"
+format: pdf
+---
+
+1.  Are there any factors that you are concerned are negatively affecting your progress in college? (e.g., time management, decision making, motivation, burnout) \vfill
+
+2.  On the flip side, what factors positively affect your progress in school? \vfill
+
+3.  If you have felt demotivated or in a slump about a project, what helped motivate you? What made things worse? \vfill
+
+4.  Your success as a student is tightly linked to your wellness. What are you doing to tend to this? \vfill
+
+5. What is your major/minor? \vfill
+
+6. When do you anticipate graduating? \vfill
+
+7. What do you hope to do after graduating from MSU? \vfill
+
+8. What has been your favorite statistics course? \vfill
+
+9. What do you hope to get out of this class? \vfill
+
+10. Is there anything else you want me to know? \vfill
